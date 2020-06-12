@@ -1,6 +1,6 @@
 # ♟️ The project 
 
-Consists in the implementation of a ML model that's able to predict the result of a chess match given its parameters. It' based on a dataset published on Kaggle (https://www.kaggle.com/datasnaek/chess), which has a compilation of matches played on lichess.org from 2013 to 2017.
+Consists in the implementation of a ML model that's able to predict the result of a chess match given its parameters. It's based on a dataset published on Kaggle (https://www.kaggle.com/datasnaek/chess), which has a compilation of matches played on lichess.org from 2013 to 2017.
 
 # ♟️ The models
 
