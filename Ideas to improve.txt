@@ -1,0 +1,22 @@
+Ideas to improve:
+
+- Try with linear model (attention to collinearity)!!!
+- Try using the two different sets: chess_games (use duration_in_seconds), chess_games_invalid_duration (don't use duration_in_seconds)
+
+==> SEPARATE INTO TWO NOTEBOOKS: one with the full 'chess_games' dataset (without dividing), another with the division. (Try Linear and Forest with both)
+
+- Horario do jogo influencia?
+- Abertura?
+- Rematches?
+
+- numero de splits na validação cruzada?
+
+- ver heatmap da correlação das variaveis
+
+- Do variables selection to separate the best variables to the model (OK)
+
+- Mostrar arvore de decisao
+
+- Lances de desenvolvimento até o lance 15 ?
+
+- Baixar partidas minhas (tentar fazer a predição)
