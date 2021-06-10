@@ -1,6 +1,6 @@
 # ♟️ The project 
 
-The main idea of this project is to discover which are the most important factors that lead to victory in an online chess match.
+The main idea of this project is to discover what are the most important factors that lead to victory in an online chess match.
 
 Then, we can use this important factors to train a model that guesses the result of a match, as it's happening.
 
